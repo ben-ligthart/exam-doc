@@ -14,3 +14,9 @@ div {
     list-style: lower-alpha;
     color: blueviolet;
 }
+
+.footer {
+    color: brown;
+    text-align: justify;
+    
+}

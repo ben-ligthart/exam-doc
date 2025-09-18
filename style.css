@@ -3,7 +3,7 @@ p {
     font-size: large;
 }
 
-.footer { 
+footer { 
     align-content: baseline;
     color: pink;
     font-weight: 100;
@@ -12,5 +12,6 @@ p {
 
 .common {
     font-size: large;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
 }

@@ -3,7 +3,7 @@ p {
     font-size: large;
 }
 
-footer { 
+.footer { 
     align-content: baseline;
     color: pink;
     font-weight: 100;

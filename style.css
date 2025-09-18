@@ -9,3 +9,8 @@ footer {
     font-weight: 100;
     margin: 60%;
 }
+
+.common {
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}

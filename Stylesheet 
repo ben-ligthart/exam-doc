@@ -1,22 +1,21 @@
-head {
+head{
     font-style: italic;
     color: blueviolet;
     font-weight: 200;
 }
 
-h1 {
+h1{
     color: cadetblue;
     font-size: larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-div { 
+div{ 
     list-style: lower-alpha;
     color: blueviolet;
 }
 
-footer {
+footer{
     color: brown;
     text-align: justify;
-
 }
